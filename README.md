@@ -1,5 +1,5 @@
 # qualys-reporter
-Download reports from Qualys for easy ingestion into a Splunk index.
+Download reports from Qualys for easy ingestion into a Splunk index. Forked version is compatible with Python3. Forked from @marekq. 
 
 Description
 -----------
